@@ -9,6 +9,8 @@ int main() {
     string msgError = "To nie jest liczba!";
     int variable;
 
+    //POWTARZAJ BEZ PRZERWY
+
     while (true) {
         cout << "Podaj liczbę" << endl;
         cout << "> ";
