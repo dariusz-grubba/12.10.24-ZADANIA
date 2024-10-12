@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    double number1, number2, number3;
+    int number1, number2, number3;
 
     //POBIERZ CYFRY
 
